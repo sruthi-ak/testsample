@@ -1,0 +1,29 @@
+#signin .form-group{
+    border:none;
+    /* border-bottom: 1px solid #E3E9F1; */
+    padding: 4px 0px;
+    border-radius: 0px;
+    background: #fff;
+}
+.w3-container{
+	border-radius: 6px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.15);
+    background-color: #fff;
+    margin-top: 36%;
+    padding: 60px !important;
+    text-align: center;
+}
+.submit{
+	 border: none;
+    display: inline-block;
+    padding: 12px 25.4px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: #fff !important;
+    background-color:#333454 !important;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    border-radius: 4px;
+}

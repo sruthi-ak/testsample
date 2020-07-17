@@ -1,0 +1,46 @@
+#bloghead{
+	margin-bottom: 15px;
+    padding-bottom: 15px;
+    margin-top: 30px !important;
+    color:#333454 !important;
+}
+.txt{
+	min-height: 88px;
+    height: auto;
+    font-size: 15px;
+    color: #555;
+}
+.box{
+	border-radius: 6px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.15);
+    background-color: #fff;
+    padding:15px;
+}
+.foot,.title{
+	color:#333454;
+
+}
+.add{
+	margin-right: 7px;
+    border-radius: 50px;
+}
+.bmarg{
+	margin-bottom:20px !important;
+}
+.bbtns{
+	 border: none;
+    display: inline-block;
+    padding: 12px 25.4px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: #fff !important;
+    background-color:#333454 !important;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    border-radius: 4px;
+}
+.submit{
+	margin-left: 15px;
+}
